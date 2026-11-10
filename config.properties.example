@@ -1,0 +1,5 @@
+# Example settings file - safe to push to GitHub.
+# Copy this file, rename the copy to config.properties,
+# and replace the placeholder values with your own Ndosi login details.
+ndosi.email=your-email@example.com
+ndosi.password=your-password-here
